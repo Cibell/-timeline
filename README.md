@@ -14,11 +14,11 @@ Utilizei como ferramenta o [VSCode](https://code.visualstudio.com/), instalei as
 
 # :computer: Tecnologias
 
- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+ - [Html](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ![image](https://camo.githubusercontent.com/194ae9b0be9bfd4caedab16de320d3987f4c144112461590a206262d21eb769b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343)
 
@@ -28,15 +28,15 @@ Utilizei como ferramenta o [VSCode](https://code.visualstudio.com/), instalei as
 # :pencil: Autor
 <table>
   <tr>
-    <td align="right">
-      <a href="https://github.com/rodolfomori" target="blank">
-        <img src="https://user-images.githubusercontent.com/95030203/155012879-fc6991b4-5357-4675-9ef5-1dd56f795265.png" width="100px;" alt="Foto do Rodolfo Mori"/><br>
+    <td align="center">
+      <a href="https://github.com/Cibell" target="blank">
+        <img src="https://avatars.githubusercontent.com/u/88112866?v=4" width="100px;" alt="Foto da Cibele"/><br>
         <sub>
-          <b>Rodolfo Mori</b>
+          <b>Cibele (Cibell)</b>
         </sub>
       </a>
     </td>
-    <table>
+    </table>
 
 
 # :closed_book: Licença
